@@ -1,0 +1,6 @@
+{
+  "name": "NURAI - Melihat Dunia dengan Suara",
+  "description": "Aplikasi AI ramah aksesibilitas tunanetra berbasis nilai PAI (Pendidikan Agama Islam) untuk mengenali benda melalui suara.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
